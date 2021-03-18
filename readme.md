@@ -1,4 +1,4 @@
-#Extracting data from online website using there API
+# Extracting data from online website using there API
 * Python with Django Framework
 * Database Mysql
 * Materialize CSS for styling
